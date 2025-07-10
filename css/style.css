@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: darkgreen;
+}
+
+main {
+    background-color: antiquewhite;
+    min-width: 75%;
+    justify-self: center;
+}
